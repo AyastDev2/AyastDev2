@@ -1,16 +1,19 @@
-### Hi there 👋
+## :briefcase: Tristan
 
-<!--
-**AyastDev2/AyastDev2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Github Statistics
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AyastDev2&show_icons=true&theme=omni&include_all_commits=true&locale=nl&count_private=true)
 
-Here are some ideas to get you started:
+Currently Learning
+:tools: • LUA
+:tools: • CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Want to Learn
+:tools: • ReactJS
+:tools: • HTML
+:tools: • JAVASCRIPT
+:tools: • PHP
+:tools: • JSX
+
+Personal Information
+• :house_with_garden: Lives in Belgium - Brussels
+• :eyes: Discord **@Tristan#5004**
